@@ -2,7 +2,7 @@
 
 Esta aula é destinada a treinamento do Frontend Mentor do 0 ao absoluto
 
-# Frontend Mentor - QR code component
+# Frontend Mentor - Card-Product
 [Frontend Mentor](https://www.frontendmentor.io)
 
 <p align="center">
